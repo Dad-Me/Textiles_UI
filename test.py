@@ -1,1 +1,1 @@
-This Duplicate file
+This is python file

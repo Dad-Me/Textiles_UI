@@ -1,1 +1,1 @@
-This Duplicate python file
+This is shell script file
